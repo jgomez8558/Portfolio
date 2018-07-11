@@ -1,0 +1,49 @@
+.stickyFooter {
+                background-color: #f5f5f5;
+}
+
+.parallaxTopBottom  {
+                      background: url("desktop.jpg");
+                      height: 60px;
+                      background-attachment: fixed;
+                      background-position: center;
+                      background-size: cover;
+}
+
+.parallaxMid  {
+                background: url("desktop.jpg");
+                height: 50px;
+                background-attachment: fixed;
+                background-position: center;
+                background-size: cover;
+}
+
+.bold  {
+        font-weight: bold;
+}
+
+.toTop  {
+          font-size: small;
+          text-decoration: underline;
+}
+
+.noBG  {
+         background: url("desktop.jpg");
+         background-attachment: fixed;
+         background-position: center;
+         background-size: cover;
+}
+
+section  {
+            font-family:"Times New Roman";
+            font-size: 17px;
+}
+
+a  {
+    color: gray;
+}
+
+h4  {
+      font-weight: bold;
+      font-style: italic;
+}
